@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,8 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
