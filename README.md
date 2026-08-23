@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanmay711/DSA-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Lifting
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0063-unique-paths-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
