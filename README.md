@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay711/DSA-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 ## Combinatorics
 |  |
 | ------- |
