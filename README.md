@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
