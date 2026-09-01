@@ -8,7 +8,7 @@ public:
         {
             if(plants[i]<=water)
             {
-                water = water - plants[i];
+                water -= plants[i];
                 step++;
             }
             else
@@ -16,9 +16,8 @@ public:
                 step += 2*i;
                 water = capacity;
 
-                water = water - plants[i];
+                water -= plants[i];
                 step++;
-
             }
         }
         return step;
