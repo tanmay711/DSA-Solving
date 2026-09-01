@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2079-watering-plants](https://github.com/tanmay711/DSA-Solving/tree/master/2079-watering-plants) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay711/DSA-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
+| [2079-watering-plants](https://github.com/tanmay711/DSA-Solving/tree/master/2079-watering-plants) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay711/DSA-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
