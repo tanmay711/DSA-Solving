@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tanmay711/DSA-Solving/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0052-n-queens-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
