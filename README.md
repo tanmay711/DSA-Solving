@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmay711/DSA-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay711/DSA-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/tanmay711/DSA-Solving/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tanmay711/DSA-Solving/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmay711/DSA-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tanmay711/DSA-Solving/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tanmay711/DSA-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0052-n-queens-ii) |
 ## Bracket Sequences
 |  |
@@ -194,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tanmay711/DSA-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
