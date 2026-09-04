@@ -4,11 +4,13 @@ public:
         int n=nums.size();
         vector<int> minn(n);
         minn[n-1] = nums[n-1];
-        for(int i=n-2; i>=0;i--)
+
+        for(int i=n-2;i>=0;i--)
         {
-            minn[i] = min(nums[i],minn[i+1]);
+            minn[i] = min(minn[i+1],nums[i]);
         }
-        int maxy=0;
+
+        int maxy = 0;
         for(int i=0;i<n;i++)
         {
             maxy = max(maxy, nums[i]);
@@ -16,10 +18,13 @@ public:
             int instability = maxy - minn[i];
 
             if(instability <= k)
+
             {
                 return i;
             }
+
         }
-        return -1;
+            return -1;
+
     }
 };
