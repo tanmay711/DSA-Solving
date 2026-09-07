@@ -1,14 +1,9 @@
 class Solution {
 public:
-    vector<vector<int>>ans;
+    vector<vector<int>> ans;
     vector<int> temp;
-    vector<bool> used;
-    vector<vector<int>> permute(vector<int>& nums) {
-        used.resize(nums.size(),false);
-        backtrack(nums);
-        return ans;
-    }
-    void backtrack(vector<int> &nums)
+    vector<bool>isused;
+    void backtract(vector<int>& nums)
     {
         if(temp.size()==nums.size())
         {
@@ -17,16 +12,21 @@ public:
         }
         for(int i=0;i<nums.size();i++)
         {
-            if(used[i])
+            if(isused[i])
             {
                 continue;
             }
-            used[i]=true;
+            isused[i] = true;
             temp.push_back(nums[i]);
-            backtrack(nums);
+            backtract(nums);
 
             temp.pop_back();
-            used[i]=false;
+            isused[i] = false;
         }
+    }
+    vector<vector<int>> permute(vector<int>& nums) {
+      isused.resize(nums.size(),false);
+      backtract(nums);
+      return ans;  
     }
 };
