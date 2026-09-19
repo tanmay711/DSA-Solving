@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tanmay711/DSA-Solving/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tanmay711/DSA-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/tanmay711/DSA-Solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tanmay711/DSA-Solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanmay711/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tanmay711/DSA-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
 | ------- |
