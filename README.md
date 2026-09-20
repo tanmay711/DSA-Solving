@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2079-watering-plants](https://github.com/tanmay711/DSA-Solving/tree/master/2079-watering-plants) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay711/DSA-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/tanmay711/DSA-Solving/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
+| [3498-reverse-degree-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
