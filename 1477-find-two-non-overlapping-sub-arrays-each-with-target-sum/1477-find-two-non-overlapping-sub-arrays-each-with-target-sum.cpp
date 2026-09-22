@@ -2,16 +2,14 @@ class Solution {
 public:
     int minSumOfLengths(vector<int>& arr, int target) {
         int n=arr.size();
-        int k = 9999999;
-        vector<int> great(n,k);
-        int left = 0;
-        int sum =0;
-        int ans=k;
-        int right;
-        for(right=0;right<n;right++)
+        const int INF = 1e9;
+        vector<int> best(n, INF);
+        int left =0, sum=0;
+        int ans=INF;
+        for(int right=0;right<n;right++)
         {
-            sum+= arr[right];
-            while(sum >target)
+            sum += arr[right];
+            while(sum>target)
             {
                 sum -= arr[left];
                 left++;
@@ -19,28 +17,28 @@ public:
             if(sum==target)
             {
                 int len = right-left+1;
-                if(left>0 && great[left-1]!=k)
+                if(left>0 && best[left-1]!=INF)
                 {
-                    ans = min(ans, len + great[left-1]);
+                    ans = min(ans, len + best[left-1]);
                 }
                 if(right==0)
                 {
-                    great[right] = len;
+                    best[right] = len;
                 }
                 else
                 {
-                    great[right] = min(great[right-1],len);
+                    best[right] = min(best[right-1],len);
                 }
             }
             else
             {
                 if(right>0)
                 {
-                    great[right] = great[right-1];
+                    best[right] = best[right-1];
                 }
             }
-        }
 
-        return ans == k ? -1:ans;
+        }
+        return ans ==INF ? -1 : ans;
     }
 };
