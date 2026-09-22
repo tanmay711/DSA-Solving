@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanmay711/DSA-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tanmay711/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmay711/DSA-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmay711/DSA-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmay711/DSA-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmay711/DSA-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanmay711/DSA-Solving/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/tanmay711/DSA-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tanmay711/DSA-Solving/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
