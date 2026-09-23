@@ -1,16 +1,16 @@
-// find largest subarray whose sum is total sum - x;
+// find max subarray with target as totalsum  - x;
 
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        int n=nums.size();
+        int n = nums.size();
         int totalsum=0;
-        for(int num:nums)
+        for(int num : nums)
         {
             totalsum += num;
         }
         int target = totalsum-x;
-        if(target<0)
+        if(target < 0)
         {
             return -1;
         }
@@ -19,9 +19,9 @@ public:
             return n;
         }
         int left=0;
+        int sum =0;
         int maxlen = -1;
-        int sum=0;
-        for(int right= 0; right<n;right++)
+        for(int right = 0; right<n;right++)
         {
             sum += nums[right];
             while(sum > target)
@@ -31,14 +31,13 @@ public:
             }
             if(sum == target)
             {
-                maxlen = max(maxlen, right - left+1);
+                maxlen = max(maxlen , right - left+1);
             }
-
         }
-            if(maxlen == -1)
-            {
-                return -1;
-            }
-            return n - maxlen;
+        if(maxlen == -1)
+        {
+            return -1;
+        }
+        return n - maxlen;
     }
 };
