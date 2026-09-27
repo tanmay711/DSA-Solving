@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanmay711/DSA-Solving/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/tanmay711/DSA-Solving/tree/master/0131-palindrome-partitioning) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/3498-reverse-degree-of-a-string) |
@@ -117,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanmay711/DSA-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
