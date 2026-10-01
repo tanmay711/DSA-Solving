@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tanmay711/DSA-Solving/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/tanmay711/DSA-Solving/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanmay711/DSA-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmay711/DSA-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/tanmay711/DSA-Solving/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanmay711/DSA-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
