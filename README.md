@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmay711/DSA-Solving/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/tanmay711/DSA-Solving/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/tanmay711/DSA-Solving/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/tanmay711/DSA-Solving/tree/master/0131-palindrome-partitioning) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanmay711/DSA-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanmay711/DSA-Solving/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/tanmay711/DSA-Solving/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/tanmay711/DSA-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tanmay711/DSA-Solving/tree/master/0118-pascals-triangle) |
