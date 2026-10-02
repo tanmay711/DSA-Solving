@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmay711/DSA-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanmay711/DSA-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/tanmay711/DSA-Solving/tree/master/0155-min-stack) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/tanmay711/DSA-Solving/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/tanmay711/DSA-Solving/tree/master/1195-fizz-buzz-multithreaded) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tanmay711/DSA-Solving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
