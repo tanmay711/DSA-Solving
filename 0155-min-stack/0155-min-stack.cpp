@@ -7,30 +7,31 @@ public:
     MinStack() {
         
     }
-    
-    void push(int val) {
+    void push(int value)
+    {
         if(st.empty())
         {
-            st.push({val,val});
+            st.push({value, value});
         }
-        else
+        else{
+            int minval= min(value, st.top().second);
+            st.push({value, minval});
+        }
+    }
+        void pop()
         {
-            int minEle = min(val,st.top().second);
-            st.push({val,minEle});
+            st.pop();
         }
-    }
+        int top()
+        {
+            return st.top().first;
+        }
+        int getMin()
+        {
+            return st.top().second;
+        }
+
     
-    void pop() {
-        st.pop();
-    }
-    
-    int top() {
-        return st.top().first;
-    }
-    
-    int getMin() {
-        return st.top().second;
-    }
 };
 
 /**
