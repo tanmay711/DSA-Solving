@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/tanmay711/DSA-Solving/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/tanmay711/DSA-Solving/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanmay711/DSA-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/tanmay711/DSA-Solving/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanmay711/DSA-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tanmay711/DSA-Solving/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Geometry
 |  |
