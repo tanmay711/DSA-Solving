@@ -368,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanmay711/DSA-Solving/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [3436-find-valid-emails](https://github.com/tanmay711/DSA-Solving/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
