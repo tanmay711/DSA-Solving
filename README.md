@@ -374,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/tanmay711/DSA-Solving/tree/master/0184-department-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/tanmay711/DSA-Solving/tree/master/0511-game-play-analysis-i) |
 | [3436-find-valid-emails](https://github.com/tanmay711/DSA-Solving/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
