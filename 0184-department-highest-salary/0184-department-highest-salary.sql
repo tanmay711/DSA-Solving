@@ -1,18 +1,17 @@
-# Write your MySQL query statement below
-WITH cte as 
-(
-    select d.name as Department, 
-    e.name as Employee,
-    e.salary as salary, 
-    max(e.salary) over (
-            partition by e.departmentId 
+WITH cte as (
+    SELECT
+        d.name AS Department, 
+        e.name AS Employee,
+        e.salary as Salary,
+        MAX(e.salary) OVER
+        (
+            PARTITION BY e.departmentId
         ) as max_salary
-
-    from Employee e
+    FROM Employee e
     JOIN Department d
-        on e.departmentId = d.id
+        ON e.departmentId = d.id
 )
 
-Select Department, Employee, Salary
-from cte 
+select Department, Employee, Salary
+from cte
 where salary = max_salary;
