@@ -373,5 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/tanmay711/DSA-Solving/tree/master/0184-department-highest-salary) |
 | [3436-find-valid-emails](https://github.com/tanmay711/DSA-Solving/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
