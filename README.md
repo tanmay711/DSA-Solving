@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/tanmay711/DSA-Solving/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanmay711/DSA-Solving/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanmay711/DSA-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmay711/DSA-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanmay711/DSA-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/tanmay711/DSA-Solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay711/DSA-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
