@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmay711/DSA-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanmay711/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/tanmay711/DSA-Solving/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tanmay711/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanmay711/DSA-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tanmay711/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 ## Binary Indexed Tree
 |  |
 | ------- |
