@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanmay711/DSA-Solving/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmay711/DSA-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tanmay711/DSA-Solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanmay711/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanmay711/DSA-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tanmay711/DSA-Solving/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay711/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanmay711/DSA-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
