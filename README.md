@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/tanmay711/DSA-Solving/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/tanmay711/DSA-Solving/tree/master/1115-print-foobar-alternately) |
 | [1195-fizz-buzz-multithreaded](https://github.com/tanmay711/DSA-Solving/tree/master/1195-fizz-buzz-multithreaded) |
 ## Design
 |  |
