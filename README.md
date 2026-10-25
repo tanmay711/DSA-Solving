@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/tanmay711/DSA-Solving/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmay711/DSA-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanmay711/DSA-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanmay711/DSA-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmay711/DSA-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tanmay711/DSA-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tanmay711/DSA-Solving/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1302-deepest-leaves-sum) |
 ## Divide and Conquer
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanmay711/DSA-Solving/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/tanmay711/DSA-Solving/tree/master/0881-boats-to-save-people) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
