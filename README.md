@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanmay711/DSA-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/tanmay711/DSA-Solving/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanmay711/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tanmay711/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanmay711/DSA-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanmay711/DSA-Solving/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/tanmay711/DSA-Solving/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tanmay711/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/tanmay711/DSA-Solving/tree/master/0901-online-stock-span) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tanmay711/DSA-Solving/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
