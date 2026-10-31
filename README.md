@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmay711/DSA-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanmay711/DSA-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmay711/DSA-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay711/DSA-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay711/DSA-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanmay711/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanmay711/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tanmay711/DSA-Solving/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay711/DSA-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanmay711/DSA-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay711/DSA-Solving/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanmay711/DSA-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay711/DSA-Solving/tree/master/3665-twisted-mirror-path-count) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
