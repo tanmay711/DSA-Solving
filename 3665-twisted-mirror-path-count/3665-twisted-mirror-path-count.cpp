@@ -35,7 +35,7 @@ public:
             down = solve(i+1,j,1,grid,dp,n,m);
             right = solve(i,j+1, 0, grid, dp, n, m);
         }
-        return dp[i][j][prev+1] = (right+down) %mod;
+        return dp[i][j][prev+1] = (right+down)%mod;
     }
     int uniquePaths(vector<vector<int>>& grid) {
         int n= grid.size();
