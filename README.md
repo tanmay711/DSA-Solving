@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmay711/DSA-Solving/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0735-asteroid-collision](https://github.com/tanmay711/DSA-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanmay711/DSA-Solving/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmay711/DSA-Solving/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay711/DSA-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay711/DSA-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanmay711/DSA-Solving/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/tanmay711/DSA-Solving/tree/master/0881-boats-to-save-people) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmay711/DSA-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tanmay711/DSA-Solving/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/tanmay711/DSA-Solving/tree/master/0223-rectangle-area) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0836-rectangle-overlap) |
 | [1360-number-of-days-between-two-dates](https://github.com/tanmay711/DSA-Solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanmay711/DSA-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
