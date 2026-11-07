@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2079-watering-plants](https://github.com/tanmay711/DSA-Solving/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanmay711/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmay711/DSA-Solving/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2747-count-zero-request-servers](https://github.com/tanmay711/DSA-Solving/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmay711/DSA-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanmay711/DSA-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanmay711/DSA-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmay711/DSA-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmay711/DSA-Solving/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2747-count-zero-request-servers](https://github.com/tanmay711/DSA-Solving/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanmay711/DSA-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay711/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmay711/DSA-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/tanmay711/DSA-Solving/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/tanmay711/DSA-Solving/tree/master/1254-number-of-closed-islands) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmay711/DSA-Solving/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanmay711/DSA-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/tanmay711/DSA-Solving/tree/master/3665-twisted-mirror-path-count) |
 ## Floyd's Cycle Finding Algorithm
