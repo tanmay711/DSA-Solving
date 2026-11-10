@@ -1,33 +1,29 @@
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
-        vector<int> dp(n+1,0);
-        dp[n]=0;
-        for(int i=n-1;i>=0;i--)
+        vector<int> dp(n+1, 0);
+        dp[0] = 0;
+        for(int i=1;i<=n;i++)
         {
-            int cost= INT_MAX;
-            int j=i+1;
-            if(j<=n)
+            int cost = INT_MAX;
+            int j=i-1;
+            if(j>=0)
             {
-                cost = dp[j] + costs[j-1] + (j-i)*(j-i);
+                cost = min(cost, dp[j]+ costs[i-1] + (i-j)*(i-j));
             }
-
-            j=i+2;
-            if(j<=n)
+            j = i-2;
+            if(j>=0)
             {
-                cost = min(cost,dp[j] + costs[j-1] + (j-i)*(j-i));
+                cost = min(cost,dp[j] + costs[i-1] + (i-j)*(i-j));
             }
-
-
-            j=i+3;
-            if(j<=n)
+            j = i-3;
+            if(j>=0)
             {
-                cost = min(cost,dp[j] + costs[j-1] + (j-i)*(j-i));
+                cost = min(cost, dp[j] + costs[i-1] + (i-j)*(i-j));
             }
 
             dp[i] = cost;
-     }
-        return dp[0];
-
+        }
+        return dp[n];
     }
 };
