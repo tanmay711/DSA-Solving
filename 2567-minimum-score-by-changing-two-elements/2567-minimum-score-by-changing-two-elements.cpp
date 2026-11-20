@@ -1,3 +1,5 @@
+// http://youtube.com/watch?v=yZof-4Kh4nQ&t=196s
+
 class Solution {
 public:
     int minimizeSum(vector<int>& nums) {
