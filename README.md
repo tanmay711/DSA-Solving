@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/tanmay711/DSA-Solving/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanmay711/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmay711/DSA-Solving/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay711/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/tanmay711/DSA-Solving/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanmay711/DSA-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanmay711/DSA-Solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tanmay711/DSA-Solving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanmay711/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay711/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/tanmay711/DSA-Solving/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmay711/DSA-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay711/DSA-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanmay711/DSA-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tanmay711/DSA-Solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/tanmay711/DSA-Solving/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay711/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay711/DSA-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
